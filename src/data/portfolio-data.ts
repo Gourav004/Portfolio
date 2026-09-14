@@ -189,7 +189,7 @@ export const DEVELOPER_STATS: DeveloperStat[] = [
     subtext: 'Algorithmic optimization, graphs, and dynamic programming',
   },
   {
-    value: 2,
+    value: 10,
     suffix: '+',
     label: 'Production Systems Shipped',
     subtext: 'TrackPro & GradJob fully deployed in the wild',

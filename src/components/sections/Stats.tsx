@@ -53,7 +53,7 @@ export function Stats() {
             </h2>
           </div>
           <p className="text-xs font-mono text-[#737373] uppercase tracking-widest max-w-xs">
-            Directly verified project milestones and algorithmic benchmarks.
+            Milestones
           </p>
         </div>
 
